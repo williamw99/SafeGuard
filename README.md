@@ -51,7 +51,7 @@
 
 ## Overview
 
-SafeGuard is an ECCV 2026 project for social-risk AI-generated video detection, bridging forensic perception and semantic reasoning.
+SafeGuard is proposed for social-risk AI-generated video detection, bridging forensic perception and semantic reasoning.
 
 ## Highlights
 
@@ -61,7 +61,7 @@ SafeGuard is an ECCV 2026 project for social-risk AI-generated video detection, 
 
 ## SafeVid Benchmark
 
-The SafeVid dataset and access instructions will be released soon.
+The SafeVid dataset will be released soon.
 
 ## Method
 
@@ -88,7 +88,7 @@ Compared with previous state-of-the-art methods, SafeGuard improves accuracy by 
 
 ## Repository Status
 
-This repository currently contains the paper PDF, supplementary material, and LaTeX source. Upcoming releases:
+Upcoming releases:
 
 - [ ] SafeVid dataset release
 - [ ] SafeGuard code release
