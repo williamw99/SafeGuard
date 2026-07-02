@@ -109,7 +109,7 @@ If you find this work useful, please consider citing:
 
 ## Acknowledgements
 
-We thank the authors and maintainers of the public benchmarks, codebases, and foundation tools that support this work, including [GenVideo / DeMamba](https://github.com/chenhaoxing/DeMamba), DVF, LOKI, GenVidBench, Grounding DINO, SAM 2, RAFT, Depth Anything V2, DINOv2, and D3. We also thank the developers of the video generation models used to construct SafeVid.
+We thank the authors and maintainers of the public benchmarks, codebases, and foundation tools that support this work, including [GenVideo / DeMamba](https://github.com/chenhaoxing/DeMamba), [DVF](https://github.com/SparkleXFantasy/MM-Det), [LOKI](https://github.com/opendatalab/LOKI), [GenVidBench](https://genvidbench.github.io/), [Grounding DINO](https://github.com/IDEA-Research/GroundingDINO), [SAM 2](https://github.com/facebookresearch/sam2), [RAFT](https://github.com/princeton-vl/RAFT), [Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2), [DINOv2](https://github.com/facebookresearch/dinov2), and [D3](https://github.com/Zig-HS/D3). We also thank the developers of the video generation models used to construct SafeVid.
 
 ## Contact
 
