@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="latex/logo.png" width="240" alt="SafeGuard logo">
+  <img src="assets/logo.png" width="240" alt="SafeGuard logo">
 </p>
 
 <h1 align="center">SafeGuard</h1>
